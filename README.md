@@ -59,7 +59,7 @@ The only "settings" that could be changed when deploying the ACD are on the PIR 
   <li>PIR 3 pin 'jumper': leave on H</li>
   <li>PIR sensitivity: turned clockwise for higher sensitivity </li>
   <li>PIR timeout: turned counter-clockwise for a short timeout</li>
-  <li>Delay timer : turn clockwise for a longer delay between motion and sound (note lights are always activated immediately)</li>
+  <li>Delay timer : turn clockwise for a longer delay between motion and sound (the lights are always activated immediately)</li>
 </ul> 
 
 ## Camera trapping setup
@@ -68,7 +68,7 @@ The device is mounted immediately next to a camera trap; I used 1/4" bolts to at
 
 The device is simply switched on at deployment; a series of beeps and clicks indicate a countdown to activation. If altering the PIR or the delay timer, the unit should be reset by switching off and back on.
 
-I had the best results when I used a scent lure, placed on the ground +/- 3m from the camera in the center of the field of view. Setting a short delay with the delay timer, an animal can fully enter the camera's field of view to first investigate the scent, before the sound is triggered.
+I had the best results when I used a scent lure, placed on the ground +/- 3m from the camera in the center of the field of view. By stting a the delay with the delay timer, this allows an animal to fully enter the camera's field of view to first investigate the scent, before the sound is triggered.
 
 ## Final thoughts
  <ul>
