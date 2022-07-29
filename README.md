@@ -1,7 +1,7 @@
 # An ‘Attention Capture Device’ for capturing facial images of pumas or other wildlife in camera trapping studies
 
 ### Peter Alexander
-### Craighead Beringia South - Kelly, WY
+### <a href="https://www.beringiasouth.org/">Craighead Beringia South</a> - Kelly, WY
 
 <div> <img src="media/ACD_front-low.jpeg" height="300" hspace="5"> <img src="media/pumareacts.JPG" height="300"> </div>
 <br clear="both"/>
