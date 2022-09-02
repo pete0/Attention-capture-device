@@ -54,7 +54,7 @@ I also attached a small tube on front of the PIR window to act as a 'blinder' so
 The ACD runs on 4 AA batteries. I used Energizer "ultimate lithium" batteries, and could expect the ACD to run for several months.
 
 ## Settings
-The only "settings" that could be changed when deploying the ACD are on the PIR <a href="[code/controller.ino](https://create.arduino.cc/projecthub/electropeak/pir-motion-sensor-how-to-use-pirs-w-arduino-raspberry-pi-18d7fa)">(see here)</a>, and the built-in delay timer. Details:
+The only "settings" that could be changed when deploying the ACD are on the PIR <a href="https://create.arduino.cc/projecthub/electropeak/pir-motion-sensor-how-to-use-pirs-w-arduino-raspberry-pi-18d7fa">(see here)</a>, and the built-in delay timer. Details:
  <ul>
   <li>PIR 3 pin 'jumper': leave on H</li>
   <li>PIR sensitivity: turned clockwise for higher sensitivity </li>
@@ -68,7 +68,7 @@ The device is mounted immediately next to a camera trap; I used 1/4" bolts to at
 
 The device is simply switched on at deployment; a series of beeps and clicks indicate a countdown to activation. If altering the PIR or the delay timer, the unit should be reset by switching off and back on.
 
-I had the best results when I used a scent lure, placed on the ground +/- 3m from the camera in the center of the field of view. By stting a the delay with the delay timer, this allows an animal to fully enter the camera's field of view to first investigate the scent, before the sound is triggered.
+I had the best results when I used a scent lure, placed on the ground +/- 3m from the camera in the center of the field of view. By setting the delay timer, this allows an animal to fully enter the camera's field of view to first investigate the scent, before the sound is triggered.
 
 ## Final thoughts
  <ul>
